@@ -1,0 +1,27 @@
+{
+  "name": "learning-threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoriBeecroft/learning-threejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoriBeecroft/learning-threejs/issues"
+  },
+  "homepage": "https://github.com/CoriBeecroft/learning-threejs#readme",
+  "dependencies": {
+    "three": "^0.113.2",
+    "three-orbit-controls": "^82.1.0",
+    "webpack": "^4.41.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
