@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/CoriBeecroft/learning-threejs#readme",
   "dependencies": {
-    "three": "^0.113.2",
+    "three": "^0.137.0",
     "three-orbit-controls": "^82.1.0",
     "webpack": "^4.42.1"
   },
