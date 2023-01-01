@@ -19,9 +19,9 @@
   "dependencies": {
     "three": "^0.113.2",
     "three-orbit-controls": "^82.1.0",
-    "webpack": "^4.42.1"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^5.0.1"
   }
 }
